@@ -4,7 +4,10 @@ Module 5 Project
 
 Kersha Broussard May 27, 2024
 
-introduction: Professional project integrating Python and SQL
+Introduction: Professional project integrating Python and SQL
+
+This project was built to the following specification: https://github.com/denisecase/datafun-05-spec
+
 
 db_initialize_kershab.py
 py -m venv .venv
