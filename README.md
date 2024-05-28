@@ -1,4 +1,4 @@
-# datafun-05-sql-
+# datafun-05-sql
 db_initialize_kershab.py
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
