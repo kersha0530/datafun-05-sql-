@@ -15,6 +15,7 @@ py -m venv .venv
 py -m pip install pandas pyarrow
 py -m pip freeze > requirements.txt
 # This .gitignore file lists content that does NOT need to be tracked in the project history
+gitt commit -m "add .gitignore, cmds to read me"
 
 # Python virtual environment
 .venv/
