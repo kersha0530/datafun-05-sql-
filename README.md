@@ -1,4 +1,11 @@
 # datafun-05-sql
+
+Module 5 Project
+
+Kersha Broussard May 27, 2024
+
+introduction: Professional project integrating Python and SQL
+
 db_initialize_kershab.py
 py -m venv .venv
 .\.venv\Scripts\Activate.ps1
