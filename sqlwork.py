@@ -1,4 +1,4 @@
-This code sets up a Python virtual environment, installs required dependencies, and creates a requirements.txt file. It is part of the setup process for the "datafun-05-sql-" project.
+pythThis code sets up a Python virtual environment, installs required dependencies, and creates a requirements.txt file. It is part of the setup process for the "datafun-05-sql-" project.
 
 The code performs the following steps:
 1. Creates a Python virtual environment using the `venv` module./**
@@ -79,5 +79,4 @@ if __name__ == "__main__":
 .\.venv\Scripts\Activate.ps1
 py -m pip install pandas pyarrow
 py -m pip freeze > requirements.txt
-Pip list --format=freeze > requirements.txt
-
+on --version
